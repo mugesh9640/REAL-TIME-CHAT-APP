@@ -1,6 +1,6 @@
-# INTERACTIVE-QUIZ-APPLICATION
+# REAL-TIME CHAT APP
 
-### A REAL-TIME CHATAPPLICATION USING WEBSOCKETS AND A FRONT-END FRAMEWORK REACT.JS.
+### A REAL-TIME CHAT APPLICATION USING WEBSOCKETS AND A FRONT-END FRAMEWORK REACT.JS.
 
 COMPANY: CODTECH IT SOLUTIONS
 
@@ -24,3 +24,4 @@ To run the application, the user must first install all dependencies using npm i
 
 <img width="1897" height="797" alt="Image" src="https://github.com/user-attachments/assets/7ef11660-172b-4813-8014-62edf2173028" />
 <img width="1919" height="817" alt="Image" src="https://github.com/user-attachments/assets/9b5f2a0a-80db-402f-9d25-758daa1f4fd0" />
+
